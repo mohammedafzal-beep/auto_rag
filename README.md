@@ -1,4 +1,4 @@
-# RAG Chatbot 🤖
+# Automated RAG Chatbot Builder 🤖
 
 A **Streamlit**-based application that uses Retrieval-Augmented Generation (RAG) to build an intelligent chatbot capable of answering questions based on uploaded documents.
 
